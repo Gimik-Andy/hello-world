@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Just Another</title>
+    Just Another
   </head>
   <body>
     A moment in time.
